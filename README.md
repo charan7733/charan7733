@@ -1,6 +1,6 @@
-<!-- Banner Image -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/qN9jk6m/github-banner-charan.png" alt="Charan GitHub Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f700&height=200&section=header&text=Welcome%20to%20Charan's%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner" />
 </p>
 
 <!-- Typing Animation Header -->
@@ -60,4 +60,7 @@
 
 ---
 
-<p align="center">✨ "Strive for progress, not perfection." ✨</p>
+<!-- Wave Animation Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f700&height=100&section=footer"/>
+</p>
