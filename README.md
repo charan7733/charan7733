@@ -5,7 +5,7 @@
 
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F700&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Charan;Machine+Learning+%26+Data+Science+Enthusiast;Software+Developer;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F700&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Charan;Machine+Learning+%26+Data+Science;Software+Developer;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
 </h1>
 
 ---
