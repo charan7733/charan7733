@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 | **📰 Fake News Detection System** | Detects fake news articles using NLP & ML. | Python, NLP, Scikit-learn |
 | **📚 Library Management System** | Library operations automation tool. | Java, MySQL |
 | **📊 K-Means Clustering** | Unsupervised clustering for data segmentation. | Python, Scikit-learn |
-| **🧮 DSA** | Data structures & algorithms problem-solving repo. | Java, C++ |
+| **🧮 DSA** | Data structures & algorithms problem-solving repo. | Java, Python |
 
 ---
 
