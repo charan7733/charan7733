@@ -18,7 +18,6 @@
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Data Science & ML**  
@@ -44,20 +43,7 @@
 | **📰 Fake News Detection System** | Detects fake news articles using NLP & ML. | Python, NLP, Scikit-learn |
 | **📚 Library Management System** | Library operations automation tool. | Java, MySQL |
 | **📊 K-Means Clustering** | Unsupervised clustering for data segmentation. | Python, Scikit-learn |
-| **🧮 DSA** | Data structures & algorithms problem-solving repo. | Java, C++ |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charan7733&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan7733&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan7733&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+| **🧮 DSA** | Data structures & algorithms problem-solving repo. | Java |
 
 ---
 
